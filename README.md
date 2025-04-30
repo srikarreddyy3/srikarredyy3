@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hi there! I'm **[Srikar Reddy Nelavetla]**, a passionate Data Scientist, AI enthusiast, and cloud practitioner.  
+Hi there! I'm **Srikar Reddy Nelavetla**, a passionate Data Scientist, AI enthusiast, and cloud practitioner.  
 I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
 ## 🛠️ Tech Stack
@@ -36,3 +36,6 @@ I love building scalable AI applications, exploring LLM architectures, and optim
   <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=dark)](https://git.io/streak-stats)
+
